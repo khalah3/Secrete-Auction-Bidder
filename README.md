@@ -39,3 +39,4 @@ This will happen if you’re using an IDE other than replit (e.g., VSCode, PyCha
 # Solution
 
 [https://replit.com/@appbrewery/blind-auction-completed](https://replit.com/@appbrewery/blind-auction-completed?v=1)
+# Secrete-Auction-Bidder
